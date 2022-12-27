@@ -1,6 +1,7 @@
 # Custom additional
 .DS_Store
-**/data/
+**/data/*.csv
+**/data/*.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
